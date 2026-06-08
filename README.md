@@ -16,6 +16,17 @@ A full-stack REST API with JWT authentication, role-based access control, and a 
 
 ---
 
+## 🌐 Live Demo
+
+You can test the live hosted application here:
+👉 **[Live Website Link](taskflow-git-main-krish619s-projects.vercel.app)**
+
+### 🔑 Demo Credentials
+Skip registration and log in directly using this pre-configured admin account to test all features:
+* **Email:** `admin@taskflow.com`
+* **Password:** `AdminPassword123!`
+
+
 ## Quick Start (Docker)
 
 ```bash
